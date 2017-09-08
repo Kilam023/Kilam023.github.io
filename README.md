@@ -3,7 +3,7 @@
 Salut les gens.
 Bienvenue sur ma page web. Je vous laisse accéder mon [Editeur GitHub](https://github.com/Kilam023/Kilam023.github.io/edit/master/README.md) et vous donne un aperçu de mon langage simplifié.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Le site [Jekyll](https://jekyllrb.com/) pourra intéresser les débutants ou les flemmards.
 
 ### Markdown
 
