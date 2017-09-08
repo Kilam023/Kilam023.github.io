@@ -7,7 +7,7 @@ Le site [Jekyll](https://jekyllrb.com/) pourra intéresser les débutants ou les
 
 ### Markdown
 
-Markdown est une syntaxe facile d'utilisation pour ajouter un style d'écriture. It includes conventions for
+Markdown permet la création d'une zone de code.
 
 ```markdown
 Syntax highlighted code block
