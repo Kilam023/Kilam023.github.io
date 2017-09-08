@@ -1,20 +1,19 @@
-## Bienvenue sur ma page GitHub
+## Welcome to my GitHub Pages site
 
-Salut les gens.
-Bienvenue sur ma page web. Je vous laisse accéder mon [Editeur GitHub](https://github.com/Kilam023/Kilam023.github.io/edit/master/README.md) et vous donne un aperçu de mon langage simplifié.
+Hello guys.
+I let you access my [GitHub Editor](https://github.com/Kilam023/Kilam023.github.io/edit/master/README.md) to make you understand how this site works.
 
-Le site [Jekyll](https://jekyllrb.com/) pourra intéresser les débutants ou les flemmards.
+This site [Jekyll](https://jekyllrb.com/) could make the beginners and the lazy ones interested.
 
 ### Markdown
 
-Markdown permet la création d'une zone de code.
+Markdown ( permits you to insert a "code block". In this one, you can see the Jekyll syntax for differents elements.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Titre 1
+## Titre 2
+### Titre 3
 
 - Bulleted
 - List
@@ -27,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**_IMPORTANT_** For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kilam023/Kilam023.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My Pages site will use the layout and styles from the Jekyll theme I have selected in my [repository settings](https://github.com/Kilam023/Kilam023.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out the [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and I’ll help you sort it out.
