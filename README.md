@@ -7,7 +7,7 @@ Le site [Jekyll](https://jekyllrb.com/) pourra intéresser les débutants ou les
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown est une syntaxe facile d'utilisation pour ajouter un style d'écriture. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
