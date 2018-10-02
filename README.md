@@ -30,7 +30,7 @@ Markdown ( permits you to insert a "code block". In this one, you can see the Je
 
 ### Jekyll Themes
 
-My Pages site will use the layout and styles from the Jekyll theme I have selected in my [repository settings](https://github.com/Kilam023/Kilam023.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My Pages site will use the layout and styles from the Jekyll theme I have selected in my [repository settings]. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
